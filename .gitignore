@@ -1,0 +1,24 @@
+# 虚拟环境
+.venv/
+venv/
+ENV/
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook 检查点文件
+.ipynb_checkpoints/
+
+# IDE 配置文件 (例如 VS Code)
+.vscode/
+
+# 操作系统特定的文件
+.DS_Store
+Thumbs.db
+
+# 任何包含机密信息的文件
+# 例如，如果你有一个 secrets.json 文件:
+# secrets.json
